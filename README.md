@@ -8,3 +8,5 @@
 6. Create a web-pack config file (webpack.config.js)
 
 7. start script - webpack-dev-server in package.json
+
+8. add a build script - "webpack" - this will give the build files for production
